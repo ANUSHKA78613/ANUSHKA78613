@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👩‍💻 Anushka Lodhi | CSE Student | Aspiring Data Scientist
 
-<!--
-**ANUSHKA78613/ANUSHKA78613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋  
+I'm **Anushka Lodhi**, a Computer Science Engineering (CSE) student from 🇮🇳, passionate about **Data Structures & Algorithms (DSA)**, and diving deep into the world of **Data Science**. I love turning data into actionable insights 📊 and solving complex problems with elegant code 💡.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- 🔧 Improving problem-solving skills through **competitive programming**
+- 📘 Exploring advanced **Data Structures and Algorithms**
+- 📊 Building live projects in **Data Science** and **Machine Learning**
+- 🧠 Currently working on:
+  - `Mental Health from Social Signals` 💬🧠
+  - `AI Ethics Violation Detector` for social media platforms ⚖️🤖
+![](https://leetcard.jacoblin.cool/Anushka_6187?ext=heatmap)
